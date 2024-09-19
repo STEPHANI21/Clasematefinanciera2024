@@ -51,7 +51,7 @@ valorActual=valorActualSimple(VF=valorFuturo,r=tasaPeriodo,t=nPeriodos)
 valorActual
 ```
 
-### Calculo del Tasa de Interes Mensual en Interes Simple 
+### Calculo de la Tasa de Interes Mensual en Interes Simple 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercicio:
 $VF$=1,140.00
