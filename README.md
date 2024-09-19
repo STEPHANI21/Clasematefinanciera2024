@@ -1,6 +1,6 @@
 # Compilacion de funciones de matemáticas financieras 
 
-En este repositorio se agrupan las funciones y actividades informaticas realizadas en la materia de matematicas financieras  de la licenciatura en Actuaria y Ciencia de Datos de la UMSNH.
+En este repositorio se agrupan las funciones y actividades informaticas realizadas en la materia de matemáticas financieras  de la licenciatura en Actuaria y Ciencia de Datos de la UMSNH.
 
 ## Funciones de interés simple
 
@@ -20,7 +20,7 @@ $i$=24.00% anualizado
 $r$=2.00% mensual
 $t$=7 meses
 
-Se realizan los calculos:
+Se realizan los cálculos:
 ```{r}
 # Creamos objetos con valores de entrada
 valorActual=1000
@@ -39,7 +39,7 @@ $i$=24.00% anualizado
 $r$=2.00% mensual
 $t$=7 meses
 
-Se realizan los calculos:
+Se realizan los cálculos:
 ```{r}
 # Creamos objetos con valores de entrada
 valorFuturo=1140
@@ -59,7 +59,7 @@ $VA$=1,000.00
 $i$=24.00% anualizado
 $t$=7 meses
 
-Se realizan los calculos:
+Se realizan los cálculos:
 ```{r}
 # Creamos objetos con valores de entrada
 valorFuturo=1140
@@ -70,7 +70,7 @@ rInteresSimple=rInteresSimple(VF=valorFuturo,VA=valorActual,t=nPeriodos)
 # Imprimimos el resultado :
 rInteresSimple
 ```
-### Calculo del Tasa de Interes Mensual en Interes Simple 
+### Calculo del tiempo en Interes Simple 
 
 Para ilustrar el ejemplo se tiene el siguiente ejercicio:
 $VF$=1,140.00
@@ -78,7 +78,7 @@ $VA$=1,000.00
 $i$=24.00% anualizado
 $r$=2.00%
 
-Se realizan los calculos:
+Se realizan los cálculos:
 ```{r}
 # Creamos objetos con valores de entrada
 valorFuturo=1140
