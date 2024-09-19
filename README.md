@@ -8,7 +8,7 @@ Con el siguiente código,puede usted cargar las funciones relativas a los calcul
 
 
 ```{r}
-source("https://raw.githubusercontent.com/STEPHANI21/Clasematefinanciera2024/refs/heads/main/formulasInteresSimple.R")
+source("https://raw.githubusercontent.com/STEPHANI21/Clasematefinanciera2024/refs/heads/main/formulasInteresSimple%20(1).R")
 ```
 A continuacion se dan ejemplos del uso de las formulas correspondientes 
 
