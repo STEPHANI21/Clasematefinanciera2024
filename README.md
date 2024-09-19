@@ -4,7 +4,7 @@ En este repositorio se agrupan las funciones y actividades informaticas realizad
 
 ## Funciones de interés simple
 
-Con el siguiente codigo,puede usted cargar las funciones relativas a los calculos de interes simple:
+Con el siguiente código,puede usted cargar las funciones relativas a los calculos de interes simple:
 
 
 ```{r}
